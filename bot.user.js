@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Kick.com follow bot
+// @namespace    kickfollow.kob.gay
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  you know what this is for
+// @author       kob_kuba on github
 // @match        https://kick.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kick.com
 // @grant        none
