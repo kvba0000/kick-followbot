@@ -11,3 +11,6 @@ It simply generates random data in fly (username, email etc.), registers account
 #### Small notes  
 - As it is user-script that does not automatically solve captchas it might be slow, if you want to speed this up you can play with some values in script like delay between setting up all fields or just use multiple tabs if you don't care about captcha  
 - <b>❗❗ SCRIPT IS USING INTERNAL KICK'S API WHICH MIGHT BE CHANGED ANYTIME, THIS MIGHT RESULT IN SCRIPT BEING BROKEN ANYTIME IN FUTURE</b>
+  
+  
+  ![social preview 1|320x271](https://github.com/kob-kuba/kick-followbot/blob/main/social-preview1.png?raw=true)
