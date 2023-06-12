@@ -1,4 +1,9 @@
+# 📢 FOLLOWBOT DOESN'T WORK AND PROBABLY NEVER WILL AGAIN
+Recently I saw that register system has changed <b>completely</b>, that means this script no longer works as it should. I'll try to fix it someday.  
+  
+    
 # Kick FollowBot
+
 #### What is this?  
 It's a small user-script for [Kick](https://kick.com) that allows you to automate following your channel using bots, I am calling it semi-automatic because you still need to solve captcha yourself. Althrough rest of the process is automatic, even email verifying (because funnily enough you don't have to verify yourself using email to do actions on the website)  
 #### How does it work?  
